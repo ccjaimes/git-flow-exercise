@@ -10,9 +10,12 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Quick Oatmeal Pancakes](recipe/feb/quick-oatmeal-pancakes.md)
 
+
+## Last Month's Favorites
+
 ### [Eggs Benny](writer/eggs-benny.md)
 
-[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
+[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)	
 
 ### [Madame Croque](writer/madame-croque.md)
 
